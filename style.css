@@ -17,11 +17,11 @@ div#toc{
     align-content: center;
     justify-content: center;
 }
+.container{
+    width: fit-content;
+}
 h1#toc{
     text-align: center;
-}
-ul#toc{
-    width: 60%;
 }
 a#toc{
     font-size: 20px;
